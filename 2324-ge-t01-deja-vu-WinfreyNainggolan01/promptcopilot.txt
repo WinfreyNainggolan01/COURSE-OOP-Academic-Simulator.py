@@ -1,0 +1,11 @@
+//put your prompt here
+variabel code, namem credit, pass_grade
+constructor
+12S2203|Object-oriented Programming|3|C
+
+variabel course, student, academic, year, semester, grade
+constructor
+12S2203|12S20999|2021/2022|even|None
+setter grade_dis
+getter grade_dis
+
